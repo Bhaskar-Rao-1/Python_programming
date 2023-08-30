@@ -1,0 +1,6 @@
+name=input("what's your name? ")
+name=name.strip()
+name=name.title()
+first,last=name.split(" ")
+print(first ,end="\n" ,sep=" ") 
+print("Hello",name)
