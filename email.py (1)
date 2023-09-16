@@ -1,0 +1,8 @@
+email=input("enter email. ").strip()
+
+
+if "@" in email:
+    pint("valid")
+else:
+    print("invalid")
+
