@@ -1,2 +1,4 @@
-for _ in range(10):
-    print ("hi")
+#for loop is limited
+
+for i in range(10):
+    print(i)
